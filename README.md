@@ -7,4 +7,4 @@
 # 🗺️ 로드맵
 
 ## JavaScript
-- [important](https://github.com/cjaewon/TIL/tree/master/c/JavaScript/important.md)
+- [자바스크립트 중요한 특징, 문법](https://github.com/cjaewon/TIL/tree/master/c/JavaScript/important.md)
