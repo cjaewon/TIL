@@ -44,7 +44,7 @@ func (Computer) Edges() []ent.Edge {
 Many to Many를 생성하는 방법은 위의 주석에서도 말해듯이 Unique를 제거해주면 된다. 
 ```go
 func (Computer) Edges() []ent.Edge {
-	return []ent.Edge{
+  return []ent.Edge{
     edge.From("owner", User.Type).
       Ref("computers").
       // Unique 제거함
