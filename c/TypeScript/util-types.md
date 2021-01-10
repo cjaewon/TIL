@@ -4,6 +4,8 @@
 ```typescript
 export type Identical<key extends string, value extends any> = { [k in key]: value };
 
-// @example 
+/**
+@example 
 const { username, password } = req.body as Identical<'username' | 'password', string>;
+**/
 ```
