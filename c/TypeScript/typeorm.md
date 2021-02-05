@@ -1,4 +1,4 @@
-# Typeorm 관련 정보
+# Typeorm 팁
 
 ## relation (관계)
 Typeorm에서의 관계정의는 `@OneToOne`, `@OneToMany` 와 같은 데코레이터로 명시해 줄 수 있다. 이러한 관계를 명시해 줄 때는 다양한 옵션 값을 줄 수 있다.

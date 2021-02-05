@@ -11,6 +11,7 @@
 
 ## TypeScript
 - [타입 유틸](https://github.com/cjaewon/TIL/tree/master/c/TypeScript/util-types.md)
+- [# Typeorm 팁](https://github.com/cjaewon/TIL/tree/master/c/TypeScript/typeorm.md)
 
 ## Go
 - [Cobra 모듈 사용법 및 설계](https://github.com/cjaewon/TIL/tree/master/c/Go/cobra.md)
