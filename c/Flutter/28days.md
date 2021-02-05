@@ -83,5 +83,9 @@ void main() {
   while (true) {
     
   }
+
+  do {
+
+  } while (true)
 }
 ```
