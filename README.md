@@ -16,6 +16,6 @@
 ## Go
 - [Cobra 모듈 사용법 및 설계](https://github.com/cjaewon/TIL/tree/master/c/Go/cobra.md)
 - [ent ORM 사용법](https://github.com/cjaewon/TIL/tree/master/c/Go/ent.md)
-- [html/template](https://github.com/cjaewon/TIL/tree/master/c/Go/htlm-template.md)
+- [html/template](https://github.com/cjaewon/TIL/tree/master/c/Go/html-template.md)
 ## Flutter
 - [28일간의 Flutter](https://github.com/cjaewon/TIL/tree/master/c/Flutter/28days.md)
