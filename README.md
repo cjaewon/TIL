@@ -7,15 +7,15 @@
 # 🗺️ 로드맵
 
 ## JavaScript
-- [자바스크립트 중요한 특징, 문법](https://github.com/cjaewon/TIL/tree/master/c/JavaScript/important.md)
+- [자바스크립트 중요한 특징, 문법](https://github.com/cjaewon/TIL/tree/main/c/JavaScript/important.md)
 
 ## TypeScript
-- [타입 유틸](https://github.com/cjaewon/TIL/tree/master/c/TypeScript/util-types.md)
-- [Typeorm 팁](https://github.com/cjaewon/TIL/tree/master/c/TypeScript/typeorm.md)
+- [타입 유틸](https://github.com/cjaewon/TIL/tree/main/c/TypeScript/util-types.md)
+- [Typeorm 팁](https://github.com/cjaewon/TIL/tree/main/c/TypeScript/typeorm.md)
 
 ## Go
-- [Cobra 모듈 사용법 및 설계](https://github.com/cjaewon/TIL/tree/master/c/Go/cobra.md)
-- [ent ORM 사용법](https://github.com/cjaewon/TIL/tree/master/c/Go/ent.md)
-- [html/template](https://github.com/cjaewon/TIL/tree/master/c/Go/html-template.md)
+- [Cobra 모듈 사용법 및 설계](https://github.com/cjaewon/TIL/tree/main/c/Go/cobra.md)
+- [ent ORM 사용법](https://github.com/cjaewon/TIL/tree/main/c/Go/ent.md)
+- [html/template](https://github.com/cjaewon/TIL/tree/main/c/Go/html-template.md)
 ## Flutter
-- [28일간의 Flutter](https://github.com/cjaewon/TIL/tree/master/c/Flutter/28days.md)
+- [28일간의 Flutter](https://github.com/cjaewon/TIL/tree/main/c/Flutter/28days.md)
